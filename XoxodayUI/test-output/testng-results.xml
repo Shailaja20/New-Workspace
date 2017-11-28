@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="285020" started-at="2017-08-21T11:33:29Z" finished-at="2017-08-21T11:38:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="285020" started-at="2017-08-21T11:33:29Z" finished-at="2017-08-21T11:38:14Z">
+      <class name="Xoxoday.AdvanceSearchTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Xoxoday.AdvanceSearchTest@52a86356]" name="openBrowser" is-config="true" duration-ms="38500" started-at="2017-08-21T17:03:29Z" finished-at="2017-08-21T17:04:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="CitySearchBar()[pri:0, instance:Xoxoday.AdvanceSearchTest@52a86356]" name="CitySearchBar" duration-ms="47341" started-at="2017-08-21T17:04:08Z" finished-at="2017-08-21T17:04:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CitySearchBar -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Xoxoday.AdvanceSearchTest@52a86356]" name="openBrowser" is-config="true" duration-ms="42149" started-at="2017-08-21T17:04:55Z" finished-at="2017-08-21T17:05:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="CityCategorySearchBar()[pri:1, instance:Xoxoday.AdvanceSearchTest@52a86356]" name="CityCategorySearchBar" duration-ms="31780" started-at="2017-08-21T17:05:37Z" finished-at="2017-08-21T17:06:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CityCategorySearchBar -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Xoxoday.AdvanceSearchTest@52a86356]" name="openBrowser" is-config="true" duration-ms="36650" started-at="2017-08-21T17:06:09Z" finished-at="2017-08-21T17:06:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="CityDateSearchBar()[pri:2, instance:Xoxoday.AdvanceSearchTest@52a86356]" name="CityDateSearchBar" duration-ms="31769" started-at="2017-08-21T17:06:46Z" finished-at="2017-08-21T17:07:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CityDateSearchBar -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Xoxoday.AdvanceSearchTest@52a86356]" name="openBrowser" is-config="true" duration-ms="28073" started-at="2017-08-21T17:07:17Z" finished-at="2017-08-21T17:07:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="CityCategoryDateSearchBar()[pri:3, instance:Xoxoday.AdvanceSearchTest@52a86356]" name="CityCategoryDateSearchBar" duration-ms="28635" started-at="2017-08-21T17:07:46Z" finished-at="2017-08-21T17:08:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CityCategoryDateSearchBar -->
+      </class> <!-- Xoxoday.AdvanceSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

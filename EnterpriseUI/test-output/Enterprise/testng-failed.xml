@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Enterprise]">
+  <test name="AllTestCase(failed)">
+    <classes>
+      <class name="UIAutomation.EnterpriseUI.LoginTest">
+        <methods>
+          <include name="TestLogin"/>
+          <include name="OpenBrowser"/>
+        </methods>
+      </class> <!-- UIAutomation.EnterpriseUI.LoginTest -->
+      <class name="UIAutomation.EnterpriseUI.EmployeeListTest">
+        <methods>
+          <include name="AddEmployee"/>
+          <include name="EmployeeProfileView"/>
+          <include name="DisableEmployee"/>
+          <include name="EnableEmployee"/>
+          <include name="EditProfile"/>
+        </methods>
+      </class> <!-- UIAutomation.EnterpriseUI.EmployeeListTest -->
+      <class name="UIAutomation.EnterpriseUI.SendPointsReminderTests">
+        <methods>
+          <include name="BudgetPointReminder"/>
+          <include name="RewardPointReminder"/>
+        </methods>
+      </class> <!-- UIAutomation.EnterpriseUI.SendPointsReminderTests -->
+      <class name="UIAutomation.EnterpriseUI.DistributeMyBudgetTest">
+        <methods>
+          <include name="RedistributBudget"/>
+          <include name="ValidatePoints"/>
+        </methods>
+      </class> <!-- UIAutomation.EnterpriseUI.DistributeMyBudgetTest -->
+      <class name="UIAutomation.EnterpriseUI.AllocatePointsTests">
+        <methods>
+          <include name="SendAllocatePoints"/>
+          <include name="SendPointsValidation"/>
+        </methods>
+      </class> <!-- UIAutomation.EnterpriseUI.AllocatePointsTests -->
+    </classes>
+  </test> <!-- AllTestCase(failed) -->
+</suite> <!-- Failed suite [Enterprise] -->

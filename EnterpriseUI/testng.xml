@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Enterprise">
+  <test name="AllTestCase">
+    <classes>
+      <class name="UIAutomation.EnterpriseUI.LoginTest"/>
+      <class name="UIAutomation.EnterpriseUI.EmployeeListTest"/>
+      <class name="UIAutomation.EnterpriseUI.AllocatePointsTests"/>
+      <class name="UIAutomation.EnterpriseUI.DistributeMyBudgetTest"/>
+      <class name="UIAutomation.EnterpriseUI.EmployeeListTest"/>
+      <class name="UIAutomation.EnterpriseUI.SendPointsReminderTests"/>
+    </classes>
+  </test> <!-- AllTestCase -->
+</suite> <!-- Enterprise -->
